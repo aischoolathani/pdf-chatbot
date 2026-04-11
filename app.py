@@ -46,7 +46,7 @@ def get_response(messages):
     }
 
     data = {
-        "model": "arcee-ai/trinity-mini:free",
+        "model": "arcee-ai/trinity-large-preview:free",
         "messages": messages
     }
 
